@@ -1,0 +1,4 @@
+C:\Users\ETEC\source\repos\aula barth\aula barth\obj\Debug\aula barth.csprojAssemblyReference.cache
+C:\Users\ETEC\source\repos\aula barth\aula barth\obj\Debug\aula_barth.Properties.Resources.resources
+C:\Users\ETEC\source\repos\aula barth\aula barth\obj\Debug\aula barth.csproj.GenerateResource.cache
+C:\Users\ETEC\source\repos\aula barth\aula barth\obj\Debug\aula barth.csproj.CoreCompileInputs.cache
